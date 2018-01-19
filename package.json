@@ -1,0 +1,22 @@
+{
+  "name": "@ucd-lib/fin-stomp-example",
+  "version": "1.0.0",
+  "description": "Simple example of external stomp connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCDavisLibrary/fin-stomp-example.git"
+  },
+  "author": "jrmerz@ucdavis.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UCDavisLibrary/fin-stomp-example/issues"
+  },
+  "homepage": "https://github.com/UCDavisLibrary/fin-stomp-example#readme",
+  "dependencies": {
+    "stompit": "^0.25.0"
+  }
+}
